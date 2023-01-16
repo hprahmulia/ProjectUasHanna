@@ -7,7 +7,7 @@
 <br> 
 Membuat Aplikasi Sederhana Iuaran Kas RT, 
 berikut fitur-fitur yang ada pada aplikasi saya : 
-
+[img : capture1.PNG ]
 
 
 
